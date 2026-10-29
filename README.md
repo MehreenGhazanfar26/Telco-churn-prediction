@@ -136,6 +136,6 @@ Python, pandas, NumPy, scikit-learn, matplotlib, seaborn, joblib, Google Colab
 
 ## Author
 
-**[Your Name]**
-LinkedIn: [your LinkedIn link]
-GitHub: [your GitHub link]
+**[Mehreen]**
+LinkedIn: [https://www.linkedin.com/in/mehreen-ghazanfar-52b680280/]
+GitHub: [https://github.com/MehreenGhazanfar26/Telco-churn-prediction/edit/main/README.md]
