@@ -116,7 +116,7 @@ Some columns overlap (for example `tenure` and `TotalCharges`, or `MonthlyCharge
    ```
    pip install -r requirements.txt
    ```
-3. Open `notebook.ipynb` and run all cells.
+3. Open `Telco_churn_prediction.ipynb` and run all cells.
 
 To use the saved model:
 
