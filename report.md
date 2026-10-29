@@ -1,6 +1,6 @@
 # Customer Churn Report: Telecom Retention Plan
 
-**Prepared by:** [Your Name]
+**Prepared by:** [Mehreen Ghazanfar]
 **Data:** 7,043 telecom customers (public Kaggle dataset)
 
 ---
